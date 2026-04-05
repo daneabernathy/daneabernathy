@@ -1,16 +1,22 @@
-## Hi there 👋
+# daneabernathy site
 
-<!--
-**daneabernathy/daneabernathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository is set up as a conventional GitHub Pages Jekyll site using the github-pages gem.
 
-Here are some ideas to get you started:
+## Local development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Install Ruby and Bundler.
+2. Install gems:
+
+    bundle install
+
+3. Start local server:
+
+    bundle exec jekyll serve
+
+4. Open http://127.0.0.1:4000
+
+## Deployment
+
+Push commits to main. GitHub Pages can build this Jekyll site directly from the repository.
+
+If you use a custom domain later, add a CNAME file at the repository root.
