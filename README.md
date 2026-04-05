@@ -1,5 +1,6 @@
-Currently working on:
-* My Site
-* My Parter's Site
-* My Homelab
+# Currently working on\#
+
+* My site
+* My Partner's site
+* My homelab
 * My work stuff
