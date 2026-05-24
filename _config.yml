@@ -3,6 +3,7 @@ description: Personal site
 url: ''
 baseurl: ''
 markdown: kramdown
-
+remote_theme: sujaykundu777/devlopr-jekyll
 plugins:
     - jekyll-feed
+    - jekyll-theme-tactile
